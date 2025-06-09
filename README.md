@@ -14,13 +14,13 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou kaua_</p>
+        <p class="lead">Eu sou KAUA</p>
         <h1>Eu estou no segundo ano</h1>
-        <p>Sou um estudande do machadinho e tenho um projeto de vida de TI</p>
+        <p>Sou um estudande do machadinho e tenho um projeto de vida,de TI</p>
         <p>Minhas habilidades</p>
         <div>  
-            <p class="badge bg-secondary">sei cozinhar</p>
-            <p class="badge bg-secondary">so bom na tecnologia</p>
+            <p class="badge bg-secondary">sei cozinhar🧑‍🍳</p>
+            <p class="badge bg-secondary">so bom na tecnologia🛠️</p>
         </div>
     </header>
     <main class="container mt-5">
