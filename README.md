@@ -12,7 +12,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar do kaua" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do danilo" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Danilo</p>
         <h1>Eu estou no segundo ano</h1>
