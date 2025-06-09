@@ -19,10 +19,8 @@
         <p>Sou um estudande do machadinho e tenho um projeto de vida de TI</p>
         <p>Minhas habilidades</p>
         <div>  
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">sei cozinhar</p>
+            <p class="badge bg-secondary">so bom na tecnologia</p>
         </div>
     </header>
     <main class="container mt-5">
